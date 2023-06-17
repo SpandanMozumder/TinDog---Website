@@ -1,2 +1,3 @@
-# TinDog---Website
-Tinder for Dogs - Angela Yu
+Tinder for Dogs
+Responsive
+HTML and CSS used
